@@ -21,7 +21,7 @@
 |项目地址|功能|
 |-------|-----|
 |https://github.com/gujian0302/kafka-connect-jdbc|集成kafka-connect-jdbc-sink&&sharding-jdbc|
-|https://github.com/gujian0302/archetype| maven scattfold |
+|https://github.com/gujian0302/quick-starter/| maven scattfold |
 
 ## 重点
 1. vim, tdd, refactor 爱好和实践者
