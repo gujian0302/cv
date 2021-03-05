@@ -1,6 +1,6 @@
 # 顾剑
 **<p align="right">联系方式: 18621537075</p>**
-**<p align="right">邮箱:1971146539@qq.com</p>**
+**<p align="right">邮箱:gujian32@gmail.com</p>**
 
 ----
 
