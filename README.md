@@ -13,10 +13,19 @@
 | Language | Framework | DevOps| Middleware| BigData| Web Frontend|
 | ---------|----| ----------|----------|------|-------|
 | JAVA     | Spring && Spring Cloud| K8s|Kafka| Kafka Stream| React|
-| Scala    |       JPA && Mybatis  | Jenkins | RabbitMQ| Kafka Connect |
+| Scala    |       JPA && Mybatis  | Jenkins | RabbitMQ| Kafka Connect |tailwindcss|
 ||Dubbo||Zookeeper |Apache Flink|
 ||Sharding Sharesphere||||
-|| TBSchedule|||
+
+## GitHub
+|项目地址|功能|
+|-------|-----|
+|https://github.com/gujian0302/kafka-connect-jdbc|集成kafka-connect-jdbc-sink&&sharding-jdbc|
+|https://github.com/gujian0302/archetype| maven scattfold |
+
+## 重点
+1. vim, tdd, refactor 爱好和实践者
+2. reactive streams explorer
 
 ## 工作经历
 
