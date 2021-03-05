@@ -1,0 +1,6 @@
+# HashMap
+### loadfactor && capacity 
+
+
+### treeify
+
